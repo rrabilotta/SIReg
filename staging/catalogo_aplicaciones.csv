@@ -1,0 +1,7 @@
+IDAPP,NOMBRE,DESCRIPCION,DIRECCIONRELATIVA,FHMODIF,FHALTA
+1,Modelo del Registro Público de la Propiedad,Modelo del Registro Público de la Propiedad (no generar formatos),/registro/,,2025-02-06 16:11:00.979372
+2,Administrador de usuarios,"Administrador de usuarios, extensión de la integrada.",/adminusr/,,2025-02-06 16:12:16.008303
+3,Avisos,Aplicación de inscripción y gestión de avisos,/aviso/,,2025-02-06 16:12:16.008303
+4,Traslados de dominios,"Traslado de dominio (compraventa, etc.)",/traslado_dominio/,,2025-02-06 16:12:16.008303
+5,Gravámenes,Gravámenes,/gravamen/,,2025-02-06 16:12:16.008303
+6,Trámites,Aplicación de trámites,/tramite/,,2025-02-06 21:07:14.221857

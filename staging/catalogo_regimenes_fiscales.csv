@@ -1,0 +1,23 @@
+IDUSOCDFI,NOMBRE,DESCRIPCION,PERSONAMORAL,CVESAT
+1,General de Ley Personas Morales,General de Ley Personas Morales,1,601
+2,Personas Morales con Fines no Lucrativos,Personas Morales con Fines no Lucrativos,1,603
+3,Régimen de Enajenación o Adquisición de Bienes,Régimen de Enajenación o Adquisición de Bienes,1,607
+4,Residentes en el Extranjero sin Establecimiento Pe,Residentes en el Extranjero sin Establecimiento Permanente en México,1,610
+5,Sociedades Cooperativas de Producción que optan po,Sociedades Cooperativas de Producción que optan por diferir sus ingresos,1,620
+6,"Actividades Agrícolas, Ganaderas, Silvícolas y Pes","Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",1,622
+7,Opcional para Grupos de Sociedades,Opcional para Grupos de Sociedades,1,623
+8,Coordinados,Coordinados,1,624
+9,Régimen Simplificado de Confianza,Régimen Simplificado de Confianza,1,626
+10,Hidrocarburos,Hidrocarburos,1,628
+11,Sueldos y Salarios e Ingresos Asimilados a Salario,Sueldos y Salarios e Ingresos Asimilados a Salarios,0,605
+12,Arrendamiento,Arrendamiento,0,606
+13,Demás ingresos,Demás ingresos,0,608
+14,Ingresos por Dividendos (socios y accionistas),Ingresos por Dividendos (socios y accionistas),0,611
+15,Personas Físicas con Actividades Empresariales y P,Personas Físicas con Actividades Empresariales y Profesionales,0,612
+16,Ingresos por intereses,Ingresos por intereses,0,614
+17,Régimen de los ingresos por obtención de premios,Régimen de los ingresos por obtención de premios,0,615
+18,Sin obligaciones fiscales,Sin obligaciones fiscales,0,616
+19,Incorporación Fiscal,Incorporación Fiscal,0,621
+20,Régimen de las Actividades Empresariales con ingre,Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas,0,625
+21,De los Regímenes Fiscales Preferentes y de las Emp,De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales,1,629
+22,Enajenación de acciones en bolsa de valores,Enajenación de acciones en bolsa de valores,0,630

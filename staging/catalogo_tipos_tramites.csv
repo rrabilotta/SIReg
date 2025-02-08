@@ -1,0 +1,59 @@
+IDTIPOTRAMITE,NOMBRE,DESCRIPCION,VIGENTE,IDCLASETRAMITE,IDTIPOACTO
+1,Inscripción de una compraventa,Inscripción de un acto de compraventa,1,30,10
+3,Aclaración,Aclaración de instrumento no atribuible al Registro,1,33,1
+5,Aclaración y/o rectificación,Aclaración y/o rectificación,0,36,24
+6,Cambios de datos sustanciales al folio,Cambios de datos sustanciales al folio,1,36,2
+7,Inscripción de un decreto y/o ley,Inscripción de un decreto y/o ley,1,30,7
+8,Corrección de datos físicos del inmueble,Corrección de datos físicos del inmueble,1,38,2
+11,Inscripción de convenio de reestructuración,Inscripción de convenio de reestructuración,1,30,11
+12,Aviso,Aviso,0,30,25
+13,Cambio de régimen,Cambio de régimen,1,30,7
+14,Cancelación de aviso,Cancelación de aviso,1,30,8
+15,Cancelación de contrato,Cancelación de contrato,1,30,8
+16,Cancelación de convenio,Cancelación de convenio,1,30,8
+17,Cancelación de gravamen,Cancelación de gravamen,1,30,8
+18,Cancelación de embargo,Cancelación de embargo,1,30,8
+19,Cancelación,Cancelación en general,1,30,8
+20,Cancelación de usufructo,Cancelación de usufructo,1,30,8
+21,Cesión de derechos,Cesión de derechos,0,30,26
+22,Comodato,Comodato,0,30,27
+23,Compraventa,Compraventa,1,30,10
+24,Constitución persona moral,Constitución y/o creación de una persona jurídica,1,30,28
+25,Constitución,Constitución,1,30,29
+26,Inscripción de contrato,Inscripción de contrato,1,30,6
+27,Inscripción de convenio judicial,Inscripción de convenio judicial,1,30,9
+28,Inscripción de convenio modificatorio,Inscripción de convenio modificatorio,1,30,11
+29,Inscripción de crédito con garantía hipotecaria,Inscripción de crédito con garantía hipotecaria,1,30,11
+30,Donación,Donación,1,30,10
+31,Decretos y declaratorias,Decretos y declaratorias,0,30,30
+32,Disolución de persona moral,Disolución de persona moral,1,30,20
+33,División,División,1,30,21
+34,Extinción,Extinción,1,30,31
+35,Inscripción de fideicomiso,Inscripción de fideicomiso,1,30,32
+36,Información ad perpetuam,Información ad perpetuam,1,30,1
+37,Inscripción de certificado de derechos de uso,Inscripción de certificado de derechos de uso,1,30,11
+38,Inscripción de resolución,Inscripción de resolución administrativa,1,30,7
+39,Jucio ordinario civil,Jucio ordinario civil,1,30,9
+40,Inscripción de modificación de fideicomiso,Inscripción de modificación de fideicomiso,1,30,32
+41,Modificación de régimen de propiedad en condominio,Modificación de régimen de propiedad en condominio,1,30,33
+42,Nombramiento y aceptación de albacea,Nombramiento y aceptación de albacea,1,30,34
+43,Patrimonio cultural del Estado,Inscripción de la condición de Valor Cultural de un inmueble.,1,30,30
+44,Protocolizacion de documentos,Protocolizacion de documentos,1,30,14
+45,Ratificación de documento y/o instrumento jurídico,Ratificación de documento y/o instrumento jurídico,1,30,15
+46,Reestructuración de hipoteca,Reestructuración de hipoteca,1,30,11
+47,Reestructuración de crédito hipotecario,Reestructuración de crédito hipotecario,1,30,11
+48,Régimen de propiedad en condominio,Régimen de propiedad en condominio,1,30,33
+49,Lotificación,Lotificación,1,30,19
+50,Reversión y/o extinción de fideicomiso,Reversión y/o extinción de fideicomiso,1,30,32
+51,Revocación de poder (inmueble),Revocación de poder (inmueble),1,30,16
+52,Revocación de poder (persona moral),Revocación de poder (persona moral),1,30,16
+53,Sentencia,Sentencia,1,30,9
+54,Subdivisión,Subdivisión,1,30,19
+55,Testamento,Testamento,1,30,36
+56,Título de propiedad,Título de propiedad,1,30,19
+57,Transmisión de propiedad,Transmisión de propiedad,1,30,10
+58,Transmisión de propiedad - fideicomiso,Transmisión de propiedad - fideicomiso,1,30,32
+59,Aportación a la sociedad,Aportación a la sociedad,1,30,10
+61,Certificado de no propiedad,Certificado de no propiedad,1,31,37
+62,Copia certificada,Copia certificada,0,32,38
+63,Historia del folio,Certificado de historia del folio (tracto sucesivo),0,31,39

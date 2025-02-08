@@ -1,0 +1,5 @@
+IdModulo,NOMBRE,DESCRIPCION,MODULO,DATOSADICIONALES,FHMODIF,idAplicacion_id,FHALTA
+1,Aviso preventivo,Aviso preventivo,aviso_preventivo,,,3,2025-02-06 16:22:33.833505
+3,Compraventa,Compraventa,compraventa,,,4,2025-02-06 18:19:44.375182
+4,Administrador de usuarios,Aplicación de gestión de usuarios,adminusr,,,2,2025-02-06 21:07:14.222005
+5,Trámites,Aplicación de trámites,tramite,,,6,2025-02-06 21:07:14.222005

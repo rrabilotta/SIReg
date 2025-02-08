@@ -1,0 +1,17 @@
+IDTIPOINSTRUMENTO,NOMBRE,DESCRIPCION,EMISOR
+1,Escritura pública notarizada,Escritura pública notarizada,0
+2,Poder,Poder,6
+3,Sentencia,Sentencia,2
+4,Ley o decreto,Ley o decreto,5
+5,Certificado de propiedad agraria,Certificado de propiedad agraria,4
+6,Constitución de fideicomiso,Constitución de fideicomiso,6
+7,Constitución de sociedad mercantil,Constitución de sociedad mercantil,6
+8,Constitución de sociedad civil,Constitución de sociedad civil,0
+9,Constitución de cooperativa,Constitución de cooperativa,6
+10,Contrato hipotecario,Contrato hipotecario,0
+11,Testamento,Testamento,0
+12,Sentencia adjudicatoria,Sentencia adjudicatoria,2
+13,Bando de cabildo,Bando de cabildo,4
+14,Programa de desarrollo urbano y/o territorial,Programa de desarrollo urbano y/o territorial,4
+15,Plan estatal de desarrollo,Plan estatal de desarrollo,4
+16,Documento apostillado en el extranjero,Documento apostillado en el extranjero,7
